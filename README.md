@@ -66,3 +66,7 @@ The above code redirect you to your default browser, if not
 <a href="https://medium.com/@heneyr24"><img align="left" 
 src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/>
 </a>
+# 
+
+# Further Link
+[MEDIUM](https://medium.com/@heneyr24/time-series-prediction-2c659b39356e?source=friends_link&sk=5c59b70a5e35ee9d5c59a382d9ab1919)
