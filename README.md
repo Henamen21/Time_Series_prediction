@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="www.corporacionfavorita.com" target="_blank" rel="noreferrer"><img src="https://www.corporacionfavorita.com/wp-content/uploads/2020/03/logo-cf-footer.png" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm <b>Henok</b> 👋 
 </h3>  
@@ -21,6 +17,9 @@ I'm a Data Analyst and Python Programmer !
 ## Description
 
 This project is a Python-based application that can predict the sales of Corporation Favorita Grocery, a large Ecuadorian supermarket chain. The application uses Streamlit, an open-source framework that allows creating interactive web apps for machine learning and data science. The user can input various factors such as product category, store location, date, and promotion, and the app will output the expected sales for that scenario. This project can help Corporation Favorita Grocery optimize its inventory management and marketing strategies.
+
+<img src="https://github.com/Henamen21/Sentiment-Analysis/blob/05a1b8e01f25e85493a3edbcdfade996e487bfeb/Image/sentiment_image.png"
+ width="800" height="300" alt="alt text" title="title">
 
 # Installation
 
@@ -59,7 +58,13 @@ The above code redirect you to your default browser, if not
 
 - Go to your browser at the following address for streamlit:
         
-      http://localhost:8501;
+      127.0.0.1:7860;
+      or
+      127.0.0.1/7861;
+
+ You can access the app on hugging face platform from [Here](https://huggingface.co/spaces/Henok21/Sentiment_Analysis)
+
+  
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/henok-solomon-a3b537206"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
@@ -67,6 +72,7 @@ The above code redirect you to your default browser, if not
 src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/>
 </a>
 # 
+
 
 # Further Link
 [MEDIUM](https://medium.com/@heneyr24/time-series-prediction-2c659b39356e?source=friends_link&sk=5c59b70a5e35ee9d5c59a382d9ab1919)
